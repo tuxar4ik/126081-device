@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Аня Лукьянова](https://up.htmlacademy.ru/htmlcss/21/user/126081).
-* Наставник: Дмитрий Гуляев (https://htmlacademy.ru/profile/dima).
+* Наставник: Дмитрий Гуляев(https://htmlacademy.ru/profile/dima).
 
 ---
 
